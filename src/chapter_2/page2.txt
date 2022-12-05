@@ -4,3 +4,6 @@ a full-fledged story-centric newsroom tool.
 
 page 2
 text
+
+
+page 2 more information
